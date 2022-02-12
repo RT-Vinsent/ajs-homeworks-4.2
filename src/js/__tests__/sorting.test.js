@@ -1,6 +1,6 @@
 import sorting from '../sorting';
 
-test('lifeBar function return text value', () => {
+test('user sorting function', () => {
   const users = [
     { name: 'мечник', health: 10 },
     { name: 'маг', health: 100 },
